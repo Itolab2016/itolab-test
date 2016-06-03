@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//test2
 double sawada(double,double);
 double ichimura(double, double);
 double sasai(double, double);
