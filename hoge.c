@@ -1,11 +1,11 @@
 #include <stdio.h>
 //test2
-double sawada(double,double);
+//double sawada(double,double);
 double ichimura(double, double);
 double sasai(double, double);
 double hatake(double, double);
 double toma(double, double);
-double kenzaki(double, double);
+//double kenzaki(double, double);
 double kitayama(double, double);
 
 main(){
