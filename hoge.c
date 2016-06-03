@@ -9,6 +9,7 @@ double toma(double, double);
 double kitayama(double, double);
 
 main(){
+  double a,b,c,d,e,f,g;
   a=1.0;//sawada(1.0,2.0);
   b=ichimura(a, 3.0);
   c=sasai(b, 4.0);
