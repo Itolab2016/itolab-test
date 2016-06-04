@@ -15,7 +15,7 @@ main(){
   c=sasai(b, 4.0);
   d=hatake(c, 5.0);
   e=toma(d, 6.0);
-  //f=kenzaki(e, 7.0);
+  f=kenzaki(e, 7.0);
   g=kitayama(e, 8.0);
   printf("%f\n",g);
 }
