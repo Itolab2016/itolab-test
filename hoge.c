@@ -1,5 +1,7 @@
 #include <stdio.h>
 //test2
+//This file is modfied in branch kouhei.
+
 //double sawada(double,double);
 double ichimura(double, double);
 double sasai(double, double);
